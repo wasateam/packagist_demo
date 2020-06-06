@@ -1,0 +1,15 @@
+{
+    "name": "davidturtle/packagistdemo",
+    "authors": [
+        {
+            "name": "davidturtle",
+            "email": "davidturtle0313@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wasateam\\Packagistdemo\\": "src"
+        }
+    },
+    "require": {}
+}

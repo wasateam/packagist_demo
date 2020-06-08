@@ -11,5 +11,6 @@
             "Wasateam\\Packagistdemo\\": "src"
         }
     },
+    "minimum-stability": "dev",
     "require": {}
 }

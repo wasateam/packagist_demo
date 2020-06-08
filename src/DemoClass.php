@@ -8,6 +8,6 @@ class DemoClass extends Controller
 {
   public static function test()
   {
-    error_log('test');
+    error_log('aaaa');
   }
 }
